@@ -1,4 +1,7 @@
 hello-world
 ===========
 
-Simple hello world test repository
+Hi there!
+
+This is just a simple readme file. Nothing special.
+
